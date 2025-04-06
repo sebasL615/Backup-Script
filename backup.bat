@@ -1,4 +1,4 @@
 @ECHO  OFF
 ECHO Backup completed!
-xcopy /f /s /h /d C:\Users\sebas\Scripts\Cleaning-project D:\anacleaningmboro_backup
+xcopy /f /s /h /d C:"Your source" D:"Destination to"
 PAUSE
